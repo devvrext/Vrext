@@ -23,9 +23,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/trewlite/vrext"
-Repository = "https://github.com/trewlite/vrext"
-Issues = "https://github.com/trewlite/vrext/issues"
+Homepage = "https://github.com/devvrext/vrext"
+Repository = "https://github.com/devvrext/vrext"
+Issues = "https://github.com/devvrext/vrext/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
